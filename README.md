@@ -8,4 +8,4 @@
 - Python, GitHub Actions, Docker (pendiente)
 
 ## Estado del CI
-![CI](https://github.com/TU_USUARIO/TU_REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/viugitalberto/20GIAR/actions/workflows/ci.yml/badge.svg)
